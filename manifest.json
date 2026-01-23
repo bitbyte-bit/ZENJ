@@ -2,7 +2,7 @@
 {
   "name": "Zenj Chat",
   "short_name": "Zenj",
-  "description": "Minimalist AI-powered chat app with Zen-inspired interface.",
+  "description": "Minimalist chat app with Zen-inspired interface.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0b141a",
