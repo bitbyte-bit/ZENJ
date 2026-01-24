@@ -9,7 +9,7 @@ import ChatView from './components/ChatView';
 import ImageGenView from './components/ImageGenView';
 import ProfileView from './components/ProfileView';
 import LiveCallOverlay from './components/LiveCallOverlay';
-import AddFriendModal from '@/components/AddFriendModal';
+import AddFriendModal from './components/AddFriendModal.tsx';
 import CreateGroupModal from './components/CreateGroupModal';
 import StatusView from './components/StatusView';
 import GroupSettingsView from './components/GroupSettingsView';
